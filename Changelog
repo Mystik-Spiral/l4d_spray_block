@@ -1,2 +1,5 @@
 06-May-2021 v1.0
 - Initial version.
+
+06-May-2021 v1.0a
+- Change include of <sdktools_tempents> to <sdktools> to avoid load failure if no other plugin is using sdktools.
